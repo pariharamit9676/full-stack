@@ -21,8 +21,8 @@ BookStore is a full-stack web application where users can browse, search, and re
 ## Tech Stack
 
 - Frontend: React, React Router, Tailwind CSS, Axios
-- Backend: Node.js, Express.js, MySQL, Sequelize (or any ORM of your choice)
-- Deployment: [Your deployment method here]
+- Backend: Node.js, Express.js, MySQL, JWT
+
 
 ---
 
