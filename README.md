@@ -39,7 +39,7 @@ BookStore is a full-stack web application where users can browse, search, and re
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/pariharamit9676/full-stack-book-review-platform
    cd your-repo
 
 2. Install dependencies for backend:
